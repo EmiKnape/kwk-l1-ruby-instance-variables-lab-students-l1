@@ -15,3 +15,4 @@ closet= [
   }
   
   puts kloset2[:tops][0]
+  puts kloset2[:footwear][4]
