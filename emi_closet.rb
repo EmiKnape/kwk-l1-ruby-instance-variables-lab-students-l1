@@ -5,4 +5,5 @@ closet= [
   ]
   #closet= [tops, bottoms, footwear]
   #puts footwear
+  puts closet [1]
   puts closet[0][0]
