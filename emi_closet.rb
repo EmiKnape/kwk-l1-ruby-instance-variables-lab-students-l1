@@ -11,4 +11,4 @@ closet= [
   kloset2 = {
     :tops => ["blouse", "sweater", "tshirts", "croptops"],
     :bottoms => ["jeans", "sweatpants", "shorts", "jorts", "skirts",]
-    :footwear => 
+    :footwear => ["running", "sandals", "boots", "flipflops", "converse"]
